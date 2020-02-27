@@ -1,12 +1,12 @@
 {
-    "name": "trebol/entrust",
-    "description": "This package provides a flexible way to add role-based permissions to Laravel and extends from Zizaco/entrust",
+    "name": "joelconty/trebol-entrust",
+    "description": "This package provides a flexible way to add role-based permissions to Laravel and extends from trebol/entrusts, which extends Zizaco/entrust",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jorge Romero",
-            "email": "jromero@trebolcolombia.com"
+            "name": "Joel Rodriguez",
+            "email": "joelconty@gmail.com"
         }
     ],
     "minimum-stability": "dev",
